@@ -14,5 +14,7 @@
             "hello\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "miexxx/hellow": "dev-master"
+    }
 }
