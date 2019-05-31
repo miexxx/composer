@@ -1,0 +1,18 @@
+{
+    "name": "zhw/hellow",
+    "description": "这是一个hello world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhanghongwei",
+            "email": "zhanghongwei@jingyu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "hello\\": "src/"
+        }
+    },
+    "require": {}
+}
